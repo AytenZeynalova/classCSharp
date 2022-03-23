@@ -14,12 +14,32 @@ namespace testofclass
 
             for (int i = 0; i < notebook.Length; i++)
             {
-                Console.WriteLine("Notebooklarin qiymetlerini daxil edin:");
-                int prices=  Convert.ToInt32(Console.ReadLine());
-                notebook = new Notebook{ prices};
+                Console.WriteLine($"{i+1}. notebookun adini daxil edin:");
+                string name = Console.ReadLine();
+                Console.WriteLine($"{i + 1}. notebookun markasini daxil edin:");
+                string brandName = Console.ReadLine();
+                Console.WriteLine($"{i + 1}. notebookun qiymetini daxil edin:");
+                double price = Convert.ToDouble(Console.ReadLine());
+                Notebook n = new Notebook
+                {
+                    Name = name,
+                    BrandName = brandName,
+                    Price = price,
+                
+                };
+                notebook[i] = n;
+
             }
+
+            double minprice = 1000;
+            double maxprice = 4500;
             
-            
+            foreach (var item in SelectNotebook(notebook, minprice, maxprice))
+            {
+                Console.WriteLine("uygun qiymetler:" +item);
+
+            }
+
         }
 
         static double [] SelectNotebook (Notebook [] notebook, double MinPrice, double MaxPrice)

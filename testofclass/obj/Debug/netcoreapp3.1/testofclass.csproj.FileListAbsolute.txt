@@ -12,3 +12,17 @@ C:\Users\aytnz\Desktop\testofclass\testofclass\obj\Debug\netcoreapp3.1\testofcla
 C:\Users\aytnz\Desktop\testofclass\testofclass\obj\Debug\netcoreapp3.1\testofclass.dll
 C:\Users\aytnz\Desktop\testofclass\testofclass\obj\Debug\netcoreapp3.1\testofclass.pdb
 C:\Users\aytnz\Desktop\testofclass\testofclass\obj\Debug\netcoreapp3.1\testofclass.genruntimeconfig.cache
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.csproj.AssemblyReference.cache
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.AssemblyInfoInputs.cache
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.AssemblyInfo.cs
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.csproj.CoreCompileInputs.cache
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.dll
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.pdb
+C:\Users\aytnz\Desktop\class\testofclass\bin\Debug\netcoreapp3.1\testofclass.exe
+C:\Users\aytnz\Desktop\class\testofclass\bin\Debug\netcoreapp3.1\testofclass.deps.json
+C:\Users\aytnz\Desktop\class\testofclass\bin\Debug\netcoreapp3.1\testofclass.runtimeconfig.json
+C:\Users\aytnz\Desktop\class\testofclass\bin\Debug\netcoreapp3.1\testofclass.runtimeconfig.dev.json
+C:\Users\aytnz\Desktop\class\testofclass\bin\Debug\netcoreapp3.1\testofclass.dll
+C:\Users\aytnz\Desktop\class\testofclass\bin\Debug\netcoreapp3.1\testofclass.pdb
+C:\Users\aytnz\Desktop\class\testofclass\obj\Debug\netcoreapp3.1\testofclass.genruntimeconfig.cache

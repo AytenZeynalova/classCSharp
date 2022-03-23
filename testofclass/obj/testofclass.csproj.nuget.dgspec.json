@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aytnz\\Desktop\\testofclass\\testofclass\\testofclass.csproj": {}
+    "C:\\Users\\aytnz\\Desktop\\class\\testofclass\\testofclass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aytnz\\Desktop\\testofclass\\testofclass\\testofclass.csproj": {
+    "C:\\Users\\aytnz\\Desktop\\class\\testofclass\\testofclass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aytnz\\Desktop\\testofclass\\testofclass\\testofclass.csproj",
+        "projectUniqueName": "C:\\Users\\aytnz\\Desktop\\class\\testofclass\\testofclass.csproj",
         "projectName": "testofclass",
-        "projectPath": "C:\\Users\\aytnz\\Desktop\\testofclass\\testofclass\\testofclass.csproj",
+        "projectPath": "C:\\Users\\aytnz\\Desktop\\class\\testofclass\\testofclass.csproj",
         "packagesPath": "C:\\Users\\aytnz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aytnz\\Desktop\\testofclass\\testofclass\\obj\\",
+        "outputPath": "C:\\Users\\aytnz\\Desktop\\class\\testofclass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aytnz\\AppData\\Roaming\\NuGet\\NuGet.Config",
